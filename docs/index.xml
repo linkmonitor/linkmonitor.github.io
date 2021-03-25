@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Lambdas Laughter</title>
     <link>https://linkmonitor.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Lambdas Laughter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Mar 2021 16:27:36 -0700</lastBuildDate><atom:link href="https://linkmonitor.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Mar 2021 12:38:58 -0700</lastBuildDate><atom:link href="https://linkmonitor.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://linkmonitor.github.io/posts/my-first-post/</link>
-      <pubDate>Mon, 22 Mar 2021 16:27:36 -0700</pubDate>
+      <title>Jaoudi Buck Processing</title>
+      <link>https://linkmonitor.github.io/services/jaoudi-buck-processing/</link>
+      <pubDate>Thu, 25 Mar 2021 12:38:58 -0700</pubDate>
       
-      <guid>https://linkmonitor.github.io/posts/my-first-post/</guid>
-      <description>Test This is a test. I&amp;rsquo;m curious to see whether I can get the output from Hugo picked up by the GitHub Pages machinery.</description>
+      <guid>https://linkmonitor.github.io/services/jaoudi-buck-processing/</guid>
+      <description>Under Construction This site will permit registered users to view their account balance, the global activity ledger as well as transfer Jaoudi Bucks.
+Proposing challenges, staging bets, and participating in Death/Dan/Will-Rolls will come later.</description>
     </item>
     
   </channel>
