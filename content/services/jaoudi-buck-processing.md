@@ -6,6 +6,8 @@ draft: false
 
 # Under Construction
 
-This site will permit registered users to view their account balance and
-activity ledger as well as transfer Jaoudi Bucks and propose challenges and
-bets.
+This site will permit registered users to view their account balance, the global
+activity ledger as well as transfer Jaoudi Bucks.
+
+Proposing challenges, staging bets, and participating in Death/Dan/Will-Rolls
+will come later.
